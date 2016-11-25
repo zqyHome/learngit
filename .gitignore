@@ -1,4 +1,5 @@
 *.conf
 public
-!.gitignore
 .patch
+patch
+.gitignore
